@@ -1,4 +1,4 @@
-# \Bhaktaraz\RSSGenerator
+# \SeniorDeveloperCris\php_rss_generator_master
 
 This is RSS generator library for PHP 5.5 or later.
 
